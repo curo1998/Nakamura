@@ -1,0 +1,9 @@
+.container {
+    max-width: 1020px;
+}
+
+.custom-btn-padding {
+    padding: 0.2rem 1rem !important; /* 上下の余白を調整 */
+    font-size: 1rem;
+    line-height: 1.5;
+}
